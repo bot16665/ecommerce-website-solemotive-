@@ -12,7 +12,7 @@ SoleMotive is a fully functional e-commerce shoe store built using **React.js, V
 - **Frontend:** React.js (Vite), Tailwind CSS
 - **Backend:** Node.js, Express.js, MongoDB (Mongoose)
 - **Authentication:** Firebase Authentication
-- **Shipping:** Shippo API
+- **Shipping:** like Shippo API  but it fake 
 - **Deployment:** Netlify (Frontend), Render (Backend)
 
 ## 📌 Features
